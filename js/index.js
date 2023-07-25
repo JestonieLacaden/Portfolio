@@ -58,8 +58,7 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 
 const typed = new Typed(".multiple-text", {
   strings: [
-    "Back-End Developer",
-    "Front-End Developer",
+    "Full Stack Developer",
     "Layout Artist",
     "Video Editor",
   ],
