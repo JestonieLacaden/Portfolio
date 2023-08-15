@@ -58,13 +58,12 @@ ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
 
 const typed = new Typed(".multiple-text", {
   strings: [
+    "Full Stack Developer",
     "Back-End Developer",
     "Front-End Developer",
-    "Layout Artist",
-    "Video Editor",
   ],
-  typeSpeed: 100,
-  backSpeed: 100,
-  backDelay: 1000,
+  typeSpeed: 50,
+  backSpeed: 50,
+  backDelay: 2000,
   loop: true,
 });
